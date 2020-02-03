@@ -1,4 +1,4 @@
-module github.com/caddyserver/dnsproviders
+module github.com/rockagen/dnsproviders
 
 go 1.13
 
